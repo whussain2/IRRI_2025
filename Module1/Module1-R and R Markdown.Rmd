@@ -1,8 +1,8 @@
 ---
 title: "Module 1: Introduction and Learning R  ![](logo.png){width=50%}"
 author:
-- Waseem Hussain, Senior Scientist-I^[IRRI,Rice Breeding Innovations, waseem.hussain@irri.org]
-- Mahender Anumalla Sceintist-I ^[IRRI, SAH, Hyderabad,m.anumalla@irri.org]
+- Waseem Hussain, Senior Scientist-I^[IRRI,Rice Breeding Innovations, waseem.hussain@cgiar.org]
+- Mahender Anumalla Sceintist-I ^[IRRI, SAH, Hyderabad,m.anumalla@cgiar.org]
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   pdf_document:
